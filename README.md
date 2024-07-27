@@ -9,3 +9,4 @@ This Dynamic dashboard provides an in-depth analysis of key performance indicato
 * Growth Opportunities: Highlighted potential areas for growth and improvement based on data driven insights.
 
  This project has honed my skills in data visualization,analytical thinking, and business intelligence.
+ https://drive.google.com/file/d/1WRiuEqbJCyEGrXk8f9vryW9eu8rSfBTZ/view?usp=sharing
